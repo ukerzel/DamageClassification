@@ -1,0 +1,4 @@
+*.png filter=lfs diff=lfs merge=lfs -text
+data/X4-Aligned_cropped_upperleft.png filter=lfs diff=lfs merge=lfs -text
+damageclassification/Best_Second_20_02092021.h5 filter=lfs diff=lfs merge=lfs -text
+damageclassification/First_Best_17_60821_test.h5 filter=lfs diff=lfs merge=lfs -text
